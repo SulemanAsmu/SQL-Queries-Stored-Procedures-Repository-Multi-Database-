@@ -1,7 +1,7 @@
 
 -- =============================================
 -- Database:    Oracle 19c/21c
--- Author:      [Your Name]
+-- Author:      Suleman
 -- Description: Sample Company Database Setup
 --              Used for all Oracle scripts
 -- =============================================
